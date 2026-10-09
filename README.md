@@ -1,38 +1,25 @@
-<h1 align="center">Pavlos Rontidis</h1>
+## Pavlos Rontidis
 
-<p align="center">
-  Tech Lead of Datadog's <a href="https://opensource.datadoghq.com/about/#the-community-open-source-engineering-team">Community Open Source Engineering (COSE)</a> team<br>
-  Maintaining <a href="https://github.com/vectordotdev/vector">Vector</a> and <a href="https://github.com/vectordotdev/vrl">VRL</a> · building <a href="https://github.com/vectordotdev/github-tools">github-tools</a> · New York
-</p>
+I'm a Tech Lead at Datadog in New York, where I lead the [Community Open Source Engineering (COSE)](https://opensource.datadoghq.com/about/#the-community-open-source-engineering-team) team. Most of my time goes into [Vector](https://github.com/vectordotdev/vector), a high-performance observability data pipeline written in Rust, and [VRL](https://github.com/vectordotdev/vrl), the language Vector uses to transform data. I also maintain [github-tools](https://github.com/vectordotdev/github-tools), which collects insights from GitHub activity.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <a href="https://opensource.datadoghq.com/"><img src="https://img.shields.io/badge/Datadog_Open_Source-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog Open Source"></a>
-  <a href="https://vector.dev"><img src="https://img.shields.io/badge/vector.dev-28D9F2?style=flat-square" alt="vector.dev"></a>
-  <a href="https://www.linkedin.com/in/prontidis"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
-
----
+Most recently I spoke about Vector at GitHub Maintainer Month NYC ([Vector: One Agent to Rule Them All?](https://pront.github.io/maintainer-month-vector-2026/)). You can also find me on [LinkedIn](https://www.linkedin.com/in/prontidis).
 
 ### Projects
 
-<p align="center">
-  <a href="https://github.com/vectordotdev/vector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vectordotdev&repo=vector&theme=transparent&hide_border=true&cache_seconds=86400" alt="Vector" width="49%"></a>
-  <a href="https://github.com/vectordotdev/vrl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vectordotdev&repo=vrl&theme=transparent&hide_border=true&cache_seconds=86400" alt="VRL" width="49%"></a>
-</p>
+<a href="https://github.com/vectordotdev/vector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vectordotdev&repo=vector&theme=transparent&hide_border=true&cache_seconds=86400" alt="Vector" width="49%"></a>
+<a href="https://github.com/vectordotdev/vrl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vectordotdev&repo=vrl&theme=transparent&hide_border=true&cache_seconds=86400" alt="VRL" width="49%"></a>
 
-### Writing and talks
+You can see some interesting metrics from [github-tools](https://github.com/vectordotdev/github-tools) here: [Vector](https://vectordotdev.github.io/github-tools/vector/), [VRL](https://vectordotdev.github.io/github-tools/vrl/) and [Quickwit](https://vectordotdev.github.io/github-tools/quickwit/).
 
-| | | |
-|---|---|---|
-| Jul 2026 | [Highlights - July 2026](https://vector.dev/blog/highlights-july-2026/) | vector.dev blog |
-| May 2026 | [Vector: One Agent to Rule Them All?](https://pront.github.io/maintainer-month-vector-2026/) | Talk · GitHub Maintainer Month NYC |
-| Nov 2025 | [Celebrating COSE's First Year](https://vector.dev/blog/cose-first-year/) | vector.dev blog |
-| Feb 2025 | [Highlights - February 2025](https://vector.dev/blog/highlights-february-2025/) | vector.dev blog |
+### Articles
+
+| Article | Summary |
+|---|---|
+| [Highlights - July 2026](https://vector.dev/blog/highlights-july-2026/)<br><sub>Jul 2026</sub> | A tour of Vector 0.46 to 0.56, with 15 new components, native OTLP decoding, Parquet for S3 and new backpressure metrics |
+| [Celebrating COSE's First Year](https://vector.dev/blog/cose-first-year/)<br><sub>Nov 2025</sub> | The team's first year, covering 8 releases, 550+ commits, native OpenTelemetry support and 159 community contributors |
+| [Highlights - February 2025](https://vector.dev/blog/highlights-february-2025/)<br><sub>Feb 2025</sub> | The OpenTelemetry sink, memory enrichment table, Apple Silicon builds, and new debugging and IDE autocompletion guides |
 
 ### Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pront&show=reviews&hide=stars&show_icons=true&hide_border=true&hide_rank=true&theme=transparent&cache_seconds=86400" alt="GitHub stats" height="170">
-  <img src="https://streak-stats.demolab.com?user=pront&theme=transparent&hide_border=true" alt="GitHub streak" height="170">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=pront&show=reviews&hide=stars&show_icons=true&hide_border=true&hide_rank=true&theme=transparent&disable_animations=true&cache_seconds=86400" alt="GitHub stats" height="165">
+<img src="https://streak-stats.demolab.com?user=pront&theme=transparent&hide_border=true&disable_animations=true" alt="GitHub streak" height="165">
