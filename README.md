@@ -1,4 +1,4 @@
-Tech Lead at Datadog. I maintain [Vector](https://github.com/vectordotdev/vector) and
+Tech Lead of Datadog's [Community Open Source Engineering (COSE)](https://opensource.datadoghq.com/about/#the-community-open-source-engineering-team) team. I maintain [Vector](https://github.com/vectordotdev/vector) and
 [VRL](https://github.com/vectordotdev/vrl), and build [github-tools](https://github.com/vectordotdev/github-tools).
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pront&show=reviews&hide=stars&show_icons=true&hide_border=true&cache_seconds=86400)
