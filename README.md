@@ -1,15 +1,8 @@
 ## Pavlos Rontidis
 
-I'm a Tech Lead at Datadog in New York, where I lead the [Community Open Source Engineering (COSE)](https://opensource.datadoghq.com/about/#the-community-open-source-engineering-team) team. Most of my time goes into [Vector](https://github.com/vectordotdev/vector), a high-performance observability data pipeline written in Rust, and [VRL](https://github.com/vectordotdev/vrl), the language Vector uses to transform data. I also maintain [github-tools](https://github.com/vectordotdev/github-tools), which collects insights from GitHub activity.
+I'm a Tech Lead at Datadog in New York, where I lead the [Community Open Source Engineering (COSE)](https://opensource.datadoghq.com/about/#the-community-open-source-engineering-team) team. Most of my time goes into [Vector](https://github.com/vectordotdev/vector), a high-performance observability data pipeline written in Rust, and [VRL](https://github.com/vectordotdev/vrl), the language Vector uses to transform data. I also maintain [github-tools](https://github.com/vectordotdev/github-tools), which collects insights from GitHub activity. You can see some interesting metrics from [github-tools](https://github.com/vectordotdev/github-tools) here: [Vector](https://vectordotdev.github.io/github-tools/vector/), [VRL](https://vectordotdev.github.io/github-tools/vrl/) and [Quickwit](https://vectordotdev.github.io/github-tools/quickwit/).
 
-Most recently I spoke about Vector at GitHub Maintainer Month NYC ([Vector: One Agent to Rule Them All?](https://pront.github.io/maintainer-month-vector-2026/)). You can also find me on [LinkedIn](https://www.linkedin.com/in/prontidis).
-
-### Projects
-
-<a href="https://github.com/vectordotdev/vector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vectordotdev&repo=vector&theme=transparent&hide_border=true&cache_seconds=86400" alt="Vector" width="49%"></a>
-<a href="https://github.com/vectordotdev/vrl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vectordotdev&repo=vrl&theme=transparent&hide_border=true&cache_seconds=86400" alt="VRL" width="49%"></a>
-
-You can see some interesting metrics from [github-tools](https://github.com/vectordotdev/github-tools) here: [Vector](https://vectordotdev.github.io/github-tools/vector/), [VRL](https://vectordotdev.github.io/github-tools/vrl/) and [Quickwit](https://vectordotdev.github.io/github-tools/quickwit/).
+If you want a quick introduction to Vector, take a look at [this talk](https://pront.github.io/maintainer-month-vector-2026/) from GitHub Maintainer Month NYC. You can also find me on [LinkedIn](https://www.linkedin.com/in/prontidis).
 
 ### Articles
 
