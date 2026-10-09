@@ -1,7 +1,7 @@
 Tech Lead at Datadog. I maintain [Vector](https://github.com/vectordotdev/vector) and
 [VRL](https://github.com/vectordotdev/vrl), and build [github-tools](https://github.com/vectordotdev/github-tools).
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pront&show=reviews&hide=stars&show_icons=true&include_all_commits=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pront&show=reviews&hide=stars&show_icons=true&hide_border=true&cache_seconds=86400)
 
 #### Writing and talks
 
