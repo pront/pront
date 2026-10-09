@@ -2,7 +2,7 @@
 
 I'm a Tech Lead at Datadog in New York, where I lead the [Community Open Source Engineering (COSE)](https://opensource.datadoghq.com/about/#the-community-open-source-engineering-team) team. Most of my time goes into [Vector](https://github.com/vectordotdev/vector), a high-performance observability data pipeline written in Rust, and [VRL](https://github.com/vectordotdev/vrl), the language Vector uses to transform data. I also maintain [github-tools](https://github.com/vectordotdev/github-tools), which collects insights from GitHub activity. You can see some interesting metrics from [github-tools](https://github.com/vectordotdev/github-tools) here: [Vector](https://vectordotdev.github.io/github-tools/vector/), [VRL](https://vectordotdev.github.io/github-tools/vrl/) and [Quickwit](https://vectordotdev.github.io/github-tools/quickwit/).
 
-If you want a quick introduction to Vector, take a look at [this talk](https://pront.github.io/maintainer-month-vector-2026/) from GitHub Maintainer Month NYC. You can also find me on [LinkedIn](https://www.linkedin.com/in/prontidis).
+If you want a quick introduction to Vector, take a look at [this talk](https://pront.github.io/maintainer-month-vector-2026/) from GitHub Maintainer Month NYC.
 
 ### Articles
 
@@ -16,3 +16,5 @@ If you want a quick introduction to Vector, take a look at [this talk](https://p
 
 <img src="https://github-readme-stats.vercel.app/api?username=pront&show=reviews&hide=stars&show_icons=true&hide_border=true&hide_rank=true&theme=transparent&disable_animations=true&cache_seconds=86400" alt="GitHub stats" height="165">
 <img src="https://streak-stats.demolab.com?user=pront&theme=transparent&hide_border=true&disable_animations=true" alt="GitHub streak" height="165">
+
+<sub>Find me on [LinkedIn](https://www.linkedin.com/in/prontidis).</sub>
