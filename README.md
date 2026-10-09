@@ -16,5 +16,3 @@ If you want a quick introduction to Vector, take a look at [this talk](https://p
 
 <img src="https://github-readme-stats.vercel.app/api?username=pront&show=reviews&hide=stars&show_icons=true&hide_border=true&hide_rank=true&theme=transparent&disable_animations=true&cache_seconds=86400" alt="GitHub stats" height="165">
 <img src="https://streak-stats.demolab.com?user=pront&theme=transparent&hide_border=true&disable_animations=true" alt="GitHub streak" height="165">
-
-<sub>Find me on [LinkedIn](https://www.linkedin.com/in/prontidis).</sub>
